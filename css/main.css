@@ -1,0 +1,24 @@
+.box{
+	background-color: grey;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 10px;
+	border: 1px solid black;	
+}
+
+.caja-contenedora{
+	background-color: grey;
+	width: 345px;
+	height: 110px;
+	padding: 10px;
+}
+
+.caja3, .caja4, .caja5{
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.caja6, .caja7{
+	display: inline-block;
+	margin-right: 10px;
+}
