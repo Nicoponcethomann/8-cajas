@@ -13,12 +13,8 @@
 	padding: 10px;
 }
 
-.caja3, .caja4, .caja5{
+.caja3, .caja4, .caja5, .caja6, .caja7{
 	display: inline-block;
 	margin-right: 10px;
 }
 
-.caja6, .caja7{
-	display: inline-block;
-	margin-right: 10px;
-}
